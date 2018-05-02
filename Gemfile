@@ -12,6 +12,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem 'stripe'
 
 # Email
 gem 'sendgrid-ruby'
