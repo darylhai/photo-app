@@ -13,9 +13,9 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'stripe'
-gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog-aws'
+gem 'carrierwave', '~> 1.0'
 
 # Email
 gem 'sendgrid-ruby'
